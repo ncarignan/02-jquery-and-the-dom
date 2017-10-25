@@ -13,27 +13,27 @@ _Your repository must include:_
 
 ```
 02-jquery-and-the-dom
-├── .eslintrc.json
-├── .gitignore
-├── LICENSE
-├── README.md
-├── index.html
-├── scripts
-│   ├── article.js
-│   └── blogArticles.js
-├── styles
-│   ├── base.css
-│   ├── fonts
-│   │   ├── icomoon.eot
-│   │   ├── icomoon.svg
-│   │   ├── icomoon.ttf
-│   │   └── icomoon.woff
-│   ├── icons.css
-│   ├── layout.css
-│   └── modules.css
-└── vendor
-    └── styles
-        └── normalize.css
+x├── .eslintrc.json
+x├── .gitignore
+x├── LICENSE
+x├── README.md
+x├── index.html
+x├── scripts
+x│   ├── article.js
+x│   └── blogArticles.js
+x├── styles
+x│   ├── base.css
+x│   ├── fonts
+x│   │   ├── icomoon.eot
+x│   │   ├── icomoon.svg
+x│   │   ├── icomoon.ttf
+x│   │   └── icomoon.woff
+x│   ├── icons.css
+x│   ├── layout.css
+x│   └── modules.css
+x└── vendor
+x    └── styles
+x        └── normalize.css
 ```
 
 ## User Stories and Feature Tasks

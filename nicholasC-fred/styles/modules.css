@@ -59,3 +59,7 @@ address {
 .pull-right:first{
   margin-top: 0;
 }
+
+.template {
+  display:none;
+}
