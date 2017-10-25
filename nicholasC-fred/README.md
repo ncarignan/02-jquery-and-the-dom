@@ -17,6 +17,13 @@ We were given starter code with the html file completed. You would have to layou
 1. Again with a topdown approach, create the styles for the full version of the site
 Day 2
 1. Removed all articles from the Dom and used Nicholas and Rob's CSS to style the new page for Nicholas and Fred
+1. Completed the `Article()` constructor and created instances by assigning all of the properties of each data object to properties of `this`
+1. Completed the `toHtml()` method, which renders each article instance to the DOM
+1. Articles are now sorted by date
+1. Added the necessary script tag to include jQuery in the app
+1. Utilized jQuery functionality to modify the display property of DOM elements
+1. Utilized jQuery functionality to traverse the DOM and completed the HTML template for the articles
+1. Refactored all `for` loops using the `.forEach()` method
 
 ## Architecture
 We used CSS and modified an html file already given to us. We imported a normalized CSS file from https://github.com/necolas/normalize.css/
