@@ -1,0 +1,31 @@
+# 01-mobile-first
+
+**Author**: Nicholas C and Rob
+**Version**: 1.0.0 (increment the patch/fix version number up if you make more commits past your first submission)
+
+## Overview
+We are building a blog site to the designer's specifications. We were to mirror a few images of the sample site provided by the customer.
+
+## Getting Started
+We were given starter code with the html file completed. You would have to layout a CSS structure in which to build the design.
+1. Normalize the CSS in vendor styles folder
+1. Add SMACCS style files like base.css, layout.css, modules.css
+1. Link them all in the head of the html
+1. Set the viewport metatag in html
+1. Starting with a topdown approach create the styles for the mobile version of the site
+1. Again with a topdown approach, create the styles for the full version of the site
+
+## Architecture
+We used CSS and modified an html file already given to us. We imported a normalized CSS file from https://github.com/necolas/normalize.css/
+
+## Change Log
+1. We set up the directories
+1. added CSS files
+1. Mobile header hover content content content content
+1. fixed header
+1. Styled main-nav
+1. Added style to main and footer
+1. added README
+
+## Credits and Collaborations
+We grabbed a normalize CSS file from https://github.com/necolas/normalize.css/

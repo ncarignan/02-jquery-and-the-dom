@@ -1,0 +1,61 @@
+.site-header {
+  background: #ffe8aa;
+  position: relative;
+}
+
+.icon-menu {
+  position: absolute;
+  top: 2.5px;
+  right: 1.5px;
+  font-size: 48px;
+  width: 48px;
+  height: 48px;
+}
+
+.main-nav li {
+  display: none;
+}
+
+.icon-menu:hover + ul li {
+  display: block;
+}
+
+.main-nav a {
+  font-size: 22px;
+}
+
+.byline {
+  color:#767676;
+}
+
+#articles h1 {
+  padding-left: 0;
+}
+
+#about h1 {
+  padding-left: 0;
+  font-size: 150%
+}
+#about li{
+  list-style-type: none;
+}
+
+#about header{
+  text-align: center;
+  font-size: 200%;
+  font-weight: bold;
+}
+
+address {
+  display: inline-block;
+  font-weight: bold;
+}
+
+.article-body p:first-of-type{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.pull-right:first{
+  margin-top: 0;
+}
